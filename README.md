@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rbecerril
 - 👀 I’m currently interested in auditing algortihms in online retailing
 - 🌱 I’m currently learning fingerprinting, web tracking
-- 💞️ I’m looking to collaborate on academic and policy projects
+- 💞️ I’m looking to collaborate on academic and business projects
 
 
 <!---
